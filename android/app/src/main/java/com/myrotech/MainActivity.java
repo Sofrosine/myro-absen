@@ -1,4 +1,4 @@
-package com.senusa.myrotech;
+package com.senusa.myroabsen;
 
 import com.facebook.react.ReactActivity;
 
