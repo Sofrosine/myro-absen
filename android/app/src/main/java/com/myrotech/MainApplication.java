@@ -1,4 +1,4 @@
-package com.senusa.myroabsen;
+package id.senusa.myrotech;
 
 import android.app.Application;
 import android.content.Context;

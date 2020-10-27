@@ -140,11 +140,11 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.senusa.myroabsen"
+        applicationId "id.senusa.myrotech"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
-        versionCode 2
-        versionName "1.1"
+        versionCode 3
+        versionName "3.0"
         manifestPlaceholders = [onesignal_app_id: "342a5202-f3b9-4088-8804-3741f29d4cce",
                                 onesignal_google_project_number: "REMOTE"]
     }
